@@ -2,11 +2,11 @@ main:
   - title: "About"
     url: /
 
+  - title: "Quantum Notes"
+    url: /quantum-notes/
+    
   - title: "CV"
     url: /cv/
-    
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Publications"
     url: /publications/
